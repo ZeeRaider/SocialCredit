@@ -8,7 +8,7 @@ Players can gain or lose points depending on how they behave in the world, which
 
 **Version: v1.0**
 
-This is the first stable release of the SocialCredit core framework. It has been built, tested in a live server environment, and locked in as the current master version.
+This is the first stable release of the SocialCredit core framework. It has been built, tested in a live server environment, and is the v1.0 release. We reccomend updating your plugin when new updates are pushed.
 
 ## What v1.0 includes
 
