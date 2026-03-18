@@ -1,0 +1,18 @@
+The current list are as follows:
+
+%socialcredit_score%
+%socialcredit_score_formatted%
+%socialcredit_rank%
+%socialcredit_wanted%
+%socialcredit_jailed%
+%socialcredit_state_credits%
+%socialcredit_dailyreward_available%
+%socialcredit_status%
+%socialcredit_heat%
+%socialcredit_heat_rounded%
+%socialcredit_heat_percent%
+%socialcredit_heat_colored%
+%socialcredit_heat_rounded_colored%
+%socialcredit_heat_percent_colored%
+%socialcredit_heat_band%
+%socialcredit_raid_eligible%
